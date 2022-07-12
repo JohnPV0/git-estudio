@@ -2,3 +2,5 @@ Añadiendo cambios
 
 Añadiendo cosas en la rama de desarrollo
 Esto puede romper el proyecto
+
+Se arregló bug en Proyecto
