@@ -6,3 +6,5 @@ Esto puede romper el proyecto
 Se arregló bug en Proyecto
 
 bug arreglado
+
+Un titulo ya en github
